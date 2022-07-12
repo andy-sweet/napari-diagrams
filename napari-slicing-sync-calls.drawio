@@ -1,31 +1,31 @@
-<mxfile host="app.diagrams.net" modified="2022-07-12T20:32:04.128Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.0.0 Safari/537.36" etag="Js61giM62W3-j0xM3778" version="20.0.4" type="github">
+<mxfile host="app.diagrams.net" modified="2022-07-12T22:16:36.951Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.0.0 Safari/537.36" etag="I7DhdQJNjuUXPA0QHDim" version="20.0.4" type="github">
   <diagram id="Yj_vzEqTpsTSU6RkFpzm" name="Page-1">
-    <mxGraphModel dx="3443" dy="1335" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="2951" dy="1144" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="6yyRVk2ILkX0JGuf4gln-77" value="VispyPointsLayer" style="rounded=0;whiteSpace=wrap;html=1;verticalAlign=top;align=center;spacingLeft=0;spacingTop=0;dashed=1;" vertex="1" parent="1">
+        <mxCell id="6yyRVk2ILkX0JGuf4gln-77" value="VispyPointsLayer" style="rounded=0;whiteSpace=wrap;html=1;verticalAlign=top;align=center;spacingLeft=0;spacingTop=0;dashed=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
           <mxGeometry x="2100" y="680" width="170" height="90" as="geometry" />
         </mxCell>
-        <mxCell id="6yyRVk2ILkX0JGuf4gln-20" value="VispyImageLayer" style="rounded=0;whiteSpace=wrap;html=1;verticalAlign=top;align=center;spacingLeft=0;spacingTop=0;dashed=1;" vertex="1" parent="1">
+        <mxCell id="6yyRVk2ILkX0JGuf4gln-20" value="VispyImageLayer" style="rounded=0;whiteSpace=wrap;html=1;verticalAlign=top;align=center;spacingLeft=0;spacingTop=0;dashed=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
           <mxGeometry x="2100" y="290" width="170" height="90" as="geometry" />
         </mxCell>
         <mxCell id="6yyRVk2ILkX0JGuf4gln-73" value="&lt;span style=&quot;color: rgb(0, 0, 0); font-family: Helvetica; font-size: 12px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; background-color: rgb(248, 249, 250); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; float: none; display: inline !important;&quot;&gt;method connected to set_data event that reads slice input/output from layer and passes some output to vispy visuals&amp;nbsp;&lt;br&gt;&lt;/span&gt;" style="text;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
           <mxGeometry x="2100" y="397.72" width="170" height="70.46" as="geometry" />
         </mxCell>
-        <mxCell id="6yyRVk2ILkX0JGuf4gln-4" value="ViewerModel" style="rounded=0;whiteSpace=wrap;html=1;verticalAlign=top;align=center;spacingLeft=0;spacingTop=0;dashed=1;fillColor=none;" vertex="1" parent="1">
+        <mxCell id="6yyRVk2ILkX0JGuf4gln-4" value="ViewerModel" style="rounded=0;whiteSpace=wrap;html=1;verticalAlign=top;align=center;spacingLeft=0;spacingTop=0;dashed=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
           <mxGeometry x="1140" y="50" width="180" height="830" as="geometry" />
         </mxCell>
         <mxCell id="6yyRVk2ILkX0JGuf4gln-6" value="_update_layers&lt;br&gt;&lt;br&gt;method connected to current_step event" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1150" y="90" width="160" height="780" as="geometry" />
         </mxCell>
-        <mxCell id="6yyRVk2ILkX0JGuf4gln-2" value="Dims" style="rounded=0;whiteSpace=wrap;html=1;verticalAlign=top;align=center;spacingLeft=0;spacingTop=0;dashed=1;" vertex="1" parent="1">
+        <mxCell id="6yyRVk2ILkX0JGuf4gln-2" value="Dims" style="rounded=0;whiteSpace=wrap;html=1;verticalAlign=top;align=center;spacingLeft=0;spacingTop=0;dashed=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
           <mxGeometry x="760" y="40" width="360" height="860" as="geometry" />
         </mxCell>
         <mxCell id="6yyRVk2ILkX0JGuf4gln-3" value="events.current_step&lt;br&gt;&lt;br&gt;event emitted on current_step mutation&amp;nbsp;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="959.38" y="80" width="150.63" height="800" as="geometry" />
         </mxCell>
-        <mxCell id="6yyRVk2ILkX0JGuf4gln-7" value="Image" style="rounded=0;whiteSpace=wrap;html=1;verticalAlign=top;align=center;spacingLeft=0;spacingTop=0;dashed=1;fillColor=none;" vertex="1" parent="1">
+        <mxCell id="6yyRVk2ILkX0JGuf4gln-7" value="Image" style="rounded=0;whiteSpace=wrap;html=1;verticalAlign=top;align=center;spacingLeft=0;spacingTop=0;dashed=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
           <mxGeometry x="1340" y="60" width="740" height="460" as="geometry" />
         </mxCell>
         <mxCell id="6yyRVk2ILkX0JGuf4gln-5" value="_slice_dims&lt;br&gt;&lt;br&gt;updates some slice input: &lt;br&gt;_dims_point, _dims_order, _ndisplay" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
@@ -46,19 +46,19 @@
         <mxCell id="6yyRVk2ILkX0JGuf4gln-19" value="_update_thumbnail" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1920" y="390" width="150" height="88.18" as="geometry" />
         </mxCell>
-        <mxCell id="6yyRVk2ILkX0JGuf4gln-46" value="QtDimSliderWidget" style="rounded=0;whiteSpace=wrap;html=1;verticalAlign=top;align=center;spacingLeft=0;spacingTop=0;dashed=1;" vertex="1" parent="1">
+        <mxCell id="6yyRVk2ILkX0JGuf4gln-46" value="QtDimSliderWidget" style="rounded=0;whiteSpace=wrap;html=1;verticalAlign=top;align=center;spacingLeft=0;spacingTop=0;dashed=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
           <mxGeometry x="570" y="30" width="170" height="880" as="geometry" />
         </mxCell>
         <mxCell id="6yyRVk2ILkX0JGuf4gln-47" value="_value_changed&lt;br&gt;&lt;br&gt;method connected to valueChanged signal" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="579.69" y="60" width="150.63" height="840" as="geometry" />
         </mxCell>
-        <mxCell id="6yyRVk2ILkX0JGuf4gln-48" value="QScrollBar" style="rounded=0;whiteSpace=wrap;html=1;verticalAlign=top;align=center;spacingLeft=0;spacingTop=0;dashed=1;" vertex="1" parent="1">
+        <mxCell id="6yyRVk2ILkX0JGuf4gln-48" value="QScrollBar" style="rounded=0;whiteSpace=wrap;html=1;verticalAlign=top;align=center;spacingLeft=0;spacingTop=0;dashed=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
           <mxGeometry x="380" y="20" width="170" height="900" as="geometry" />
         </mxCell>
         <mxCell id="6yyRVk2ILkX0JGuf4gln-49" value="valueChanged&lt;br&gt;&lt;br&gt;Qt signal emitted when the slider position changes" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="389.69" y="50" width="150.63" height="860" as="geometry" />
         </mxCell>
-        <mxCell id="6yyRVk2ILkX0JGuf4gln-50" value="set_current_step&lt;br&gt;&lt;br&gt;method called by _value_changed" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="6yyRVk2ILkX0JGuf4gln-50" value="set_current_step" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="769.38" y="70" width="150.63" height="820" as="geometry" />
         </mxCell>
         <mxCell id="6yyRVk2ILkX0JGuf4gln-52" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
@@ -199,7 +199,7 @@
             <mxPoint x="1880" y="310" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="6yyRVk2ILkX0JGuf4gln-79" value="Points" style="rounded=0;whiteSpace=wrap;html=1;verticalAlign=top;align=center;spacingLeft=0;spacingTop=0;dashed=1;fillColor=none;" vertex="1" parent="1">
+        <mxCell id="6yyRVk2ILkX0JGuf4gln-79" value="Points" style="rounded=0;whiteSpace=wrap;html=1;verticalAlign=top;align=center;spacingLeft=0;spacingTop=0;dashed=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
           <mxGeometry x="1340" y="540" width="740" height="330" as="geometry" />
         </mxCell>
         <mxCell id="6yyRVk2ILkX0JGuf4gln-80" value="_slice_dims" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
@@ -320,7 +320,10 @@
           <mxGeometry x="2110" y="720" width="150" height="40" as="geometry" />
         </mxCell>
         <mxCell id="6yyRVk2ILkX0JGuf4gln-102" value="&lt;h1&gt;napari: sync slicing flow&amp;nbsp;&lt;/h1&gt;&lt;p&gt;One way to trigger slicing in napari is to move the current position of a dimensional slider. When the position changes, a slice of each layer will be generated as described by the call sequence depicted in this diagram. In this design, all calls occur on the main thread and are ultimately triggered by a user action (e.g. a mouse press + move) that caused the slider to move and wake up the Qt event loop.&amp;nbsp;&lt;/p&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;dashed=1;dashPattern=1 1;" vertex="1" parent="1">
-          <mxGeometry x="10" y="10" width="340" height="510" as="geometry" />
+          <mxGeometry x="10" y="10" width="340" height="170" as="geometry" />
+        </mxCell>
+        <mxCell id="6yyRVk2ILkX0JGuf4gln-103" value="Main thread" style="rounded=0;whiteSpace=wrap;html=1;verticalAlign=top;align=center;spacingLeft=0;spacingTop=0;dashed=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="95" y="200" width="170" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
