@@ -1,11 +1,11 @@
-<mxfile host="app.diagrams.net" modified="2022-07-12T18:17:39.137Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.0.0 Safari/537.36" etag="PJGkScL47IHfqGwFOzb7" version="20.0.4" type="github">
+<mxfile host="app.diagrams.net" modified="2022-07-12T18:24:28.186Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.0.0 Safari/537.36" etag="fgwbenvBl8XDz2S1IqDI" version="20.0.4" type="github">
   <diagram id="Yj_vzEqTpsTSU6RkFpzm" name="Page-1">
     <mxGraphModel dx="3756" dy="1456" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="6yyRVk2ILkX0JGuf4gln-32" value="" style="group" vertex="1" connectable="0" parent="1">
-          <mxGeometry x="1570" y="300" width="170" height="100" as="geometry" />
+          <mxGeometry x="1760" y="300" width="170" height="100" as="geometry" />
         </mxCell>
         <mxCell id="6yyRVk2ILkX0JGuf4gln-20" value="VispyImageLayer" style="rounded=0;whiteSpace=wrap;html=1;verticalAlign=top;align=center;spacingLeft=0;spacingTop=0;dashed=1;" vertex="1" parent="6yyRVk2ILkX0JGuf4gln-32">
           <mxGeometry width="170" height="100" as="geometry" />
@@ -14,7 +14,7 @@
           <mxGeometry x="10" y="39.54000000000002" width="150" height="40" as="geometry" />
         </mxCell>
         <mxCell id="6yyRVk2ILkX0JGuf4gln-43" value="" style="group" vertex="1" connectable="0" parent="1">
-          <mxGeometry x="1570" y="650" width="170" height="100" as="geometry" />
+          <mxGeometry x="1760" y="650" width="170" height="100" as="geometry" />
         </mxCell>
         <mxCell id="6yyRVk2ILkX0JGuf4gln-44" value="VispyPointsLayer" style="rounded=0;whiteSpace=wrap;html=1;verticalAlign=top;align=center;spacingLeft=0;spacingTop=0;dashed=1;" vertex="1" parent="6yyRVk2ILkX0JGuf4gln-43">
           <mxGeometry width="170" height="100" as="geometry" />
@@ -23,70 +23,73 @@
           <mxGeometry x="10" y="39.54000000000002" width="150" height="40" as="geometry" />
         </mxCell>
         <mxCell id="6yyRVk2ILkX0JGuf4gln-4" value="ViewerModel" style="rounded=0;whiteSpace=wrap;html=1;verticalAlign=top;align=center;spacingLeft=0;spacingTop=0;dashed=1;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="610" y="60" width="180" height="830" as="geometry" />
+          <mxGeometry x="800" y="60" width="180" height="830" as="geometry" />
         </mxCell>
-        <mxCell id="6yyRVk2ILkX0JGuf4gln-6" value="_update_layers" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="620" y="100" width="160" height="780" as="geometry" />
+        <mxCell id="6yyRVk2ILkX0JGuf4gln-6" value="_update_layers&lt;br&gt;&lt;br&gt;method connected to current_step event" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="810" y="100" width="160" height="780" as="geometry" />
         </mxCell>
         <mxCell id="6yyRVk2ILkX0JGuf4gln-2" value="Dims" style="rounded=0;whiteSpace=wrap;html=1;verticalAlign=top;align=center;spacingLeft=0;spacingTop=0;dashed=1;" vertex="1" parent="1">
-          <mxGeometry x="420" y="50" width="170" height="850" as="geometry" />
+          <mxGeometry x="420" y="50" width="360" height="860" as="geometry" />
         </mxCell>
-        <mxCell id="6yyRVk2ILkX0JGuf4gln-3" value="events.current_step" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="429.38" y="90" width="150.63" height="800" as="geometry" />
+        <mxCell id="6yyRVk2ILkX0JGuf4gln-3" value="events.current_step&lt;br&gt;&lt;br&gt;event emitted on current_step mutation&amp;nbsp;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="619.38" y="90" width="150.63" height="800" as="geometry" />
         </mxCell>
         <mxCell id="6yyRVk2ILkX0JGuf4gln-36" value="Points" style="rounded=0;whiteSpace=wrap;html=1;verticalAlign=top;align=center;spacingLeft=0;spacingTop=0;dashed=1;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="810" y="540" width="740" height="340" as="geometry" />
+          <mxGeometry x="1000" y="540" width="740" height="340" as="geometry" />
         </mxCell>
         <mxCell id="6yyRVk2ILkX0JGuf4gln-37" value="_slice_dims" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="820" y="580" width="150" height="290" as="geometry" />
+          <mxGeometry x="1010" y="580" width="150" height="290" as="geometry" />
         </mxCell>
         <mxCell id="6yyRVk2ILkX0JGuf4gln-38" value="_update_dims" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1010" y="585.45" width="150" height="274.55" as="geometry" />
+          <mxGeometry x="1200" y="585.45" width="150" height="274.55" as="geometry" />
         </mxCell>
         <mxCell id="6yyRVk2ILkX0JGuf4gln-39" value="refresh" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1200" y="594.54" width="150" height="255.46" as="geometry" />
+          <mxGeometry x="1390" y="594.54" width="150" height="255.46" as="geometry" />
         </mxCell>
         <mxCell id="6yyRVk2ILkX0JGuf4gln-40" value="set_view_slice" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1390" y="600" width="150" height="70" as="geometry" />
+          <mxGeometry x="1580" y="600" width="150" height="70" as="geometry" />
         </mxCell>
         <mxCell id="6yyRVk2ILkX0JGuf4gln-41" value="events.set_data" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1390" y="679.0899999999999" width="150" height="60.91" as="geometry" />
+          <mxGeometry x="1580" y="679.0899999999999" width="150" height="60.91" as="geometry" />
         </mxCell>
         <mxCell id="6yyRVk2ILkX0JGuf4gln-42" value="_update_thumbnail" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1390" y="749.9999999999999" width="150" height="88.18" as="geometry" />
+          <mxGeometry x="1580" y="749.9999999999999" width="150" height="88.18" as="geometry" />
         </mxCell>
         <mxCell id="6yyRVk2ILkX0JGuf4gln-7" value="Image" style="rounded=0;whiteSpace=wrap;html=1;verticalAlign=top;align=center;spacingLeft=0;spacingTop=0;dashed=1;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="810" y="70" width="740" height="460" as="geometry" />
+          <mxGeometry x="1000" y="70" width="740" height="460" as="geometry" />
         </mxCell>
         <mxCell id="6yyRVk2ILkX0JGuf4gln-5" value="_slice_dims" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="820" y="110" width="150" height="410" as="geometry" />
+          <mxGeometry x="1010" y="110" width="150" height="410" as="geometry" />
         </mxCell>
         <mxCell id="6yyRVk2ILkX0JGuf4gln-8" value="_update_dims" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1010" y="115.45" width="150" height="394.55" as="geometry" />
+          <mxGeometry x="1200" y="115.45" width="150" height="394.55" as="geometry" />
         </mxCell>
         <mxCell id="6yyRVk2ILkX0JGuf4gln-9" value="refresh" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1200" y="124.54" width="150" height="375.46" as="geometry" />
+          <mxGeometry x="1390" y="124.54" width="150" height="375.46" as="geometry" />
         </mxCell>
         <mxCell id="6yyRVk2ILkX0JGuf4gln-10" value="set_view_slice" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1390" y="130" width="150" height="190" as="geometry" />
+          <mxGeometry x="1580" y="130" width="150" height="190" as="geometry" />
         </mxCell>
         <mxCell id="6yyRVk2ILkX0JGuf4gln-17" value="events.set_data" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1390" y="329.09" width="150" height="60.91" as="geometry" />
+          <mxGeometry x="1580" y="329.09" width="150" height="60.91" as="geometry" />
         </mxCell>
         <mxCell id="6yyRVk2ILkX0JGuf4gln-19" value="_update_thumbnail" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1390" y="400" width="150" height="88.18" as="geometry" />
+          <mxGeometry x="1580" y="400" width="150" height="88.18" as="geometry" />
         </mxCell>
         <mxCell id="6yyRVk2ILkX0JGuf4gln-46" value="QtDimSliderWidget" style="rounded=0;whiteSpace=wrap;html=1;verticalAlign=top;align=center;spacingLeft=0;spacingTop=0;dashed=1;" vertex="1" parent="1">
-          <mxGeometry x="220" y="40" width="170" height="870" as="geometry" />
+          <mxGeometry x="220" y="40" width="170" height="880" as="geometry" />
         </mxCell>
-        <mxCell id="6yyRVk2ILkX0JGuf4gln-47" value="_value_changed" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="229.69" y="70" width="150.63" height="830" as="geometry" />
+        <mxCell id="6yyRVk2ILkX0JGuf4gln-47" value="_value_changed&lt;br&gt;&lt;br&gt;method connected to valueChanged signal" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="229.69" y="70" width="150.63" height="840" as="geometry" />
         </mxCell>
         <mxCell id="6yyRVk2ILkX0JGuf4gln-48" value="QScrollBar" style="rounded=0;whiteSpace=wrap;html=1;verticalAlign=top;align=center;spacingLeft=0;spacingTop=0;dashed=1;" vertex="1" parent="1">
-          <mxGeometry x="20" y="30" width="170" height="890" as="geometry" />
+          <mxGeometry x="20" y="30" width="170" height="900" as="geometry" />
         </mxCell>
-        <mxCell id="6yyRVk2ILkX0JGuf4gln-49" value="valueChanged" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="29.69" y="60" width="150.63" height="850" as="geometry" />
+        <mxCell id="6yyRVk2ILkX0JGuf4gln-49" value="valueChanged&lt;br&gt;&lt;br&gt;Qt signal emitted when the slider position changes" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="29.69" y="60" width="150.63" height="860" as="geometry" />
+        </mxCell>
+        <mxCell id="6yyRVk2ILkX0JGuf4gln-50" value="set_current_step&lt;br&gt;&lt;br&gt;method called by _value_changed" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="429.38" y="80" width="150.63" height="820" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
