@@ -1,28 +1,28 @@
-<mxfile host="app.diagrams.net" modified="2022-07-12T22:16:30.187Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.0.0 Safari/537.36" etag="OTSd_lTrOAWFwrkIcu3K" version="20.0.4" type="github">
+<mxfile host="app.diagrams.net" modified="2022-07-13T15:25:43.275Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.0.0 Safari/537.36" etag="O-QeZiUc49VcTwHGt4tw" version="20.0.4" type="github">
   <diagram id="Yj_vzEqTpsTSU6RkFpzm" name="Page-1">
-    <mxGraphModel dx="3443" dy="1335" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="2852" dy="1602" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="ODCxSDIAOIF_QO2Thnrf-40" value="VispyImageLayer" style="rounded=0;whiteSpace=wrap;html=1;verticalAlign=top;align=center;spacingLeft=0;spacingTop=0;dashed=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+        <mxCell id="ODCxSDIAOIF_QO2Thnrf-40" value="VispyImageLayer" style="rounded=0;whiteSpace=wrap;html=1;verticalAlign=top;align=center;spacingLeft=0;spacingTop=0;dashed=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
           <mxGeometry x="570" y="690" width="170" height="90" as="geometry" />
         </mxCell>
-        <mxCell id="ODCxSDIAOIF_QO2Thnrf-13" value="LayerSlicer" style="rounded=0;whiteSpace=wrap;html=1;verticalAlign=top;align=center;spacingLeft=0;spacingTop=0;dashed=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+        <mxCell id="ODCxSDIAOIF_QO2Thnrf-13" value="LayerSlicer" style="rounded=0;whiteSpace=wrap;html=1;verticalAlign=top;align=center;spacingLeft=0;spacingTop=0;dashed=1;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" vertex="1">
           <mxGeometry x="1550" y="250" width="580" height="450" as="geometry" />
         </mxCell>
-        <mxCell id="ODCxSDIAOIF_QO2Thnrf-18" value="Points" style="rounded=0;whiteSpace=wrap;html=1;verticalAlign=bottom;align=center;spacingLeft=0;spacingTop=0;dashed=1;fillColor=#d5e8d4;horizontal=0;strokeColor=#82b366;" vertex="1" parent="1">
+        <mxCell id="ODCxSDIAOIF_QO2Thnrf-18" value="Points" style="rounded=0;whiteSpace=wrap;html=1;verticalAlign=bottom;align=center;spacingLeft=0;spacingTop=0;dashed=1;fillColor=#d5e8d4;horizontal=0;strokeColor=#82b366;" parent="1" vertex="1">
           <mxGeometry x="2150" y="510" width="200" height="120" as="geometry" />
         </mxCell>
-        <mxCell id="ODCxSDIAOIF_QO2Thnrf-16" value="Image" style="rounded=0;whiteSpace=wrap;html=1;verticalAlign=bottom;align=center;spacingLeft=0;spacingTop=0;dashed=1;fillColor=#d5e8d4;horizontal=0;strokeColor=#82b366;" vertex="1" parent="1">
+        <mxCell id="ODCxSDIAOIF_QO2Thnrf-16" value="Image" style="rounded=0;whiteSpace=wrap;html=1;verticalAlign=bottom;align=center;spacingLeft=0;spacingTop=0;dashed=1;fillColor=#d5e8d4;horizontal=0;strokeColor=#82b366;" parent="1" vertex="1">
           <mxGeometry x="2150" y="290" width="200" height="210" as="geometry" />
         </mxCell>
-        <mxCell id="ODCxSDIAOIF_QO2Thnrf-6" value="Points" style="rounded=0;whiteSpace=wrap;html=1;verticalAlign=bottom;align=center;spacingLeft=0;spacingTop=0;dashed=1;fillColor=none;horizontal=0;" vertex="1" parent="1">
+        <mxCell id="ODCxSDIAOIF_QO2Thnrf-6" value="Points" style="rounded=0;whiteSpace=wrap;html=1;verticalAlign=bottom;align=center;spacingLeft=0;spacingTop=0;dashed=1;fillColor=none;horizontal=0;" parent="1" vertex="1">
           <mxGeometry x="1540" y="180" width="200" height="70" as="geometry" />
         </mxCell>
-        <mxCell id="ODCxSDIAOIF_QO2Thnrf-4" value="Image" style="rounded=0;whiteSpace=wrap;html=1;verticalAlign=bottom;align=center;spacingLeft=0;spacingTop=0;dashed=1;fillColor=none;horizontal=0;" vertex="1" parent="1">
+        <mxCell id="ODCxSDIAOIF_QO2Thnrf-4" value="Image" style="rounded=0;whiteSpace=wrap;html=1;verticalAlign=bottom;align=center;spacingLeft=0;spacingTop=0;dashed=1;fillColor=none;horizontal=0;" parent="1" vertex="1">
           <mxGeometry x="1540" y="100" width="200" height="70" as="geometry" />
         </mxCell>
-        <mxCell id="ODCxSDIAOIF_QO2Thnrf-2" value="LayerSlicer" style="rounded=0;whiteSpace=wrap;html=1;verticalAlign=top;align=center;spacingLeft=0;spacingTop=0;dashed=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+        <mxCell id="ODCxSDIAOIF_QO2Thnrf-2" value="LayerSlicer" style="rounded=0;whiteSpace=wrap;html=1;verticalAlign=top;align=center;spacingLeft=0;spacingTop=0;dashed=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
           <mxGeometry x="1340" y="60" width="410" height="270" as="geometry" />
         </mxCell>
         <mxCell id="6yyRVk2ILkX0JGuf4gln-4" value="ViewerModel" style="rounded=0;whiteSpace=wrap;html=1;verticalAlign=top;align=center;spacingLeft=0;spacingTop=0;dashed=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
@@ -124,123 +124,123 @@
             <mxPoint x="1550" y="190" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="6yyRVk2ILkX0JGuf4gln-102" value="&lt;h1&gt;napari: async slicing flow&amp;nbsp;&lt;/h1&gt;&lt;p&gt;Instead of waiting for the slicing operation to completely finish before returning to the main Qt event loop, we can run the bulk of that operation asynchronously and respond when it&#39;s done.&lt;/p&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;dashed=1;dashPattern=1 1;" parent="1" vertex="1">
+        <mxCell id="6yyRVk2ILkX0JGuf4gln-102" value="&lt;h1&gt;napari: async slicing flow&amp;nbsp;&lt;/h1&gt;&lt;p&gt;Instead of waiting for the slicing operation to completely finish before returning to the main Qt event loop, we can run the bulk of that operation asynchronously and respond when it&#39;s done. We need to respond on the main thread because Qt widgets can only be used and updated from the main thread.&amp;nbsp;&lt;/p&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;dashed=1;dashPattern=1 1;" parent="1" vertex="1">
           <mxGeometry x="10" y="10" width="340" height="130" as="geometry" />
         </mxCell>
-        <mxCell id="ODCxSDIAOIF_QO2Thnrf-1" value="slice_layers_async" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="ODCxSDIAOIF_QO2Thnrf-1" value="slice_layers_async" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="1350" y="100" width="160" height="220" as="geometry" />
         </mxCell>
-        <mxCell id="ODCxSDIAOIF_QO2Thnrf-3" value="_make_slice_request" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="ODCxSDIAOIF_QO2Thnrf-3" value="_make_slice_request" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="1550" y="110" width="160" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="ODCxSDIAOIF_QO2Thnrf-5" value="_make_slice_request" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="ODCxSDIAOIF_QO2Thnrf-5" value="_make_slice_request" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="1550" y="190" width="160" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="ODCxSDIAOIF_QO2Thnrf-7" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+        <mxCell id="ODCxSDIAOIF_QO2Thnrf-7" value="" style="endArrow=classic;html=1;rounded=0;" parent="1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="1510.0000000000005" y="110" as="sourcePoint" />
             <mxPoint x="1550.0000000000005" y="110" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="ODCxSDIAOIF_QO2Thnrf-8" value="Executor" style="rounded=0;whiteSpace=wrap;html=1;verticalAlign=bottom;align=center;spacingLeft=0;spacingTop=0;dashed=1;fillColor=#dae8fc;horizontal=0;strokeColor=#6c8ebf;" vertex="1" parent="1">
+        <mxCell id="ODCxSDIAOIF_QO2Thnrf-8" value="Executor" style="rounded=0;whiteSpace=wrap;html=1;verticalAlign=bottom;align=center;spacingLeft=0;spacingTop=0;dashed=1;fillColor=#dae8fc;horizontal=0;strokeColor=#6c8ebf;" parent="1" vertex="1">
           <mxGeometry x="1540" y="260" width="200" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="ODCxSDIAOIF_QO2Thnrf-9" value="submit" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="ODCxSDIAOIF_QO2Thnrf-9" value="submit" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="1550" y="270" width="160" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="ODCxSDIAOIF_QO2Thnrf-10" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+        <mxCell id="ODCxSDIAOIF_QO2Thnrf-10" value="" style="endArrow=classic;html=1;rounded=0;" parent="1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="1550" y="309.9999999999998" as="sourcePoint" />
             <mxPoint x="1510" y="309.9999999999993" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="ODCxSDIAOIF_QO2Thnrf-11" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+        <mxCell id="ODCxSDIAOIF_QO2Thnrf-11" value="" style="endArrow=classic;html=1;rounded=0;" parent="1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="1510" y="270.00000000000006" as="sourcePoint" />
             <mxPoint x="1550" y="270.00000000000006" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="ODCxSDIAOIF_QO2Thnrf-12" value="slice_layers" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="ODCxSDIAOIF_QO2Thnrf-12" value="slice_layers" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="1960" y="290" width="160" height="340" as="geometry" />
         </mxCell>
-        <mxCell id="ODCxSDIAOIF_QO2Thnrf-14" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+        <mxCell id="ODCxSDIAOIF_QO2Thnrf-14" value="" style="endArrow=classic;html=1;rounded=0;" parent="1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="1710" y="289.47" as="sourcePoint" />
             <mxPoint x="1960" y="289" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="ODCxSDIAOIF_QO2Thnrf-37" value="run on slicing thread&amp;nbsp;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="ODCxSDIAOIF_QO2Thnrf-14">
+        <mxCell id="ODCxSDIAOIF_QO2Thnrf-37" value="run on slicing thread&amp;nbsp;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="ODCxSDIAOIF_QO2Thnrf-14" vertex="1" connectable="0">
           <mxGeometry x="0.093" y="6" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="ODCxSDIAOIF_QO2Thnrf-15" value="_get_slice" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="ODCxSDIAOIF_QO2Thnrf-15" value="_get_slice" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="2160" y="300" width="160" height="190" as="geometry" />
         </mxCell>
-        <mxCell id="ODCxSDIAOIF_QO2Thnrf-17" value="_get_slice" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="ODCxSDIAOIF_QO2Thnrf-17" value="_get_slice" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="2160" y="520" width="160" height="100" as="geometry" />
         </mxCell>
-        <mxCell id="ODCxSDIAOIF_QO2Thnrf-19" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+        <mxCell id="ODCxSDIAOIF_QO2Thnrf-19" value="" style="endArrow=classic;html=1;rounded=0;" parent="1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="2120" y="300" as="sourcePoint" />
             <mxPoint x="2160" y="300" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="ODCxSDIAOIF_QO2Thnrf-20" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+        <mxCell id="ODCxSDIAOIF_QO2Thnrf-20" value="" style="endArrow=classic;html=1;rounded=0;" parent="1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="1350" y="319.9999999999999" as="sourcePoint" />
             <mxPoint x="1310" y="319.9999999999992" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="ODCxSDIAOIF_QO2Thnrf-21" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+        <mxCell id="ODCxSDIAOIF_QO2Thnrf-21" value="" style="endArrow=classic;html=1;rounded=0;" parent="1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="2120" y="519.9300000000001" as="sourcePoint" />
             <mxPoint x="2160" y="519.9300000000001" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="ODCxSDIAOIF_QO2Thnrf-22" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+        <mxCell id="ODCxSDIAOIF_QO2Thnrf-22" value="" style="endArrow=classic;html=1;rounded=0;" parent="1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="2160" y="619.9999999999999" as="sourcePoint" />
             <mxPoint x="2120" y="619.9999999999992" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="ODCxSDIAOIF_QO2Thnrf-24" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+        <mxCell id="ODCxSDIAOIF_QO2Thnrf-24" value="" style="endArrow=classic;html=1;rounded=0;" parent="1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="2160" y="490.0000000000002" as="sourcePoint" />
             <mxPoint x="2120" y="489.9999999999991" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="ODCxSDIAOIF_QO2Thnrf-25" value="QtViewer" style="rounded=0;whiteSpace=wrap;html=1;verticalAlign=top;align=center;spacingLeft=0;spacingTop=0;dashed=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+        <mxCell id="ODCxSDIAOIF_QO2Thnrf-25" value="QtViewer" style="rounded=0;whiteSpace=wrap;html=1;verticalAlign=top;align=center;spacingLeft=0;spacingTop=0;dashed=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
           <mxGeometry x="380" y="670" width="170" height="200" as="geometry" />
         </mxCell>
-        <mxCell id="ODCxSDIAOIF_QO2Thnrf-26" value="_on_slice_ready&lt;br&gt;&lt;br&gt;slot connected to ready signal runs on main thread" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="ODCxSDIAOIF_QO2Thnrf-26" value="_on_slice_ready&lt;br&gt;&lt;br&gt;slot connected to ready signal runs on main thread" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="390" y="720" width="150" height="130" as="geometry" />
         </mxCell>
-        <mxCell id="ODCxSDIAOIF_QO2Thnrf-28" value="_on_slice_done" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="ODCxSDIAOIF_QO2Thnrf-28" value="_on_slice_done" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="1760" y="630" width="160" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="ODCxSDIAOIF_QO2Thnrf-30" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+        <mxCell id="ODCxSDIAOIF_QO2Thnrf-30" value="" style="endArrow=classic;html=1;rounded=0;" parent="1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="1960" y="630" as="sourcePoint" />
             <mxPoint x="1920" y="630" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="ODCxSDIAOIF_QO2Thnrf-31" value="ready" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="ODCxSDIAOIF_QO2Thnrf-31" value="ready" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="1560" y="640" width="160" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="ODCxSDIAOIF_QO2Thnrf-32" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+        <mxCell id="ODCxSDIAOIF_QO2Thnrf-32" value="" style="endArrow=classic;html=1;rounded=0;" parent="1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="1760" y="639.1299999999999" as="sourcePoint" />
             <mxPoint x="1720" y="639.1299999999992" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="ODCxSDIAOIF_QO2Thnrf-33" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+        <mxCell id="ODCxSDIAOIF_QO2Thnrf-33" value="" style="endArrow=classic;html=1;rounded=0;" parent="1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="1720" y="680" as="sourcePoint" />
             <mxPoint x="1760" y="680" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="ODCxSDIAOIF_QO2Thnrf-34" value="" style="endArrow=classic;html=1;rounded=0;edgeStyle=orthogonalEdgeStyle;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="ODCxSDIAOIF_QO2Thnrf-31">
+        <mxCell id="ODCxSDIAOIF_QO2Thnrf-34" value="" style="endArrow=classic;html=1;rounded=0;edgeStyle=orthogonalEdgeStyle;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" parent="1" source="ODCxSDIAOIF_QO2Thnrf-31" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="1340.01" y="659.5" as="sourcePoint" />
             <mxPoint x="390" y="720" as="targetPoint" />
@@ -250,48 +250,48 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="ODCxSDIAOIF_QO2Thnrf-36" value="enqueue any connected slots to main event loop&amp;nbsp;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="ODCxSDIAOIF_QO2Thnrf-34">
+        <mxCell id="ODCxSDIAOIF_QO2Thnrf-36" value="enqueue any connected slots to main event loop&amp;nbsp;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="ODCxSDIAOIF_QO2Thnrf-34" vertex="1" connectable="0">
           <mxGeometry x="0.0113" y="-2" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="ODCxSDIAOIF_QO2Thnrf-39" value="_set_slice" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="ODCxSDIAOIF_QO2Thnrf-39" value="_set_slice" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="580" y="730" width="150" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="ODCxSDIAOIF_QO2Thnrf-41" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+        <mxCell id="ODCxSDIAOIF_QO2Thnrf-41" value="" style="endArrow=classic;html=1;rounded=0;" parent="1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="580.3200000000002" y="769.9999999999998" as="sourcePoint" />
             <mxPoint x="540.3200000000002" y="769.9999999999991" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="ODCxSDIAOIF_QO2Thnrf-42" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+        <mxCell id="ODCxSDIAOIF_QO2Thnrf-42" value="" style="endArrow=classic;html=1;rounded=0;" parent="1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="540.3199999999999" y="730" as="sourcePoint" />
             <mxPoint x="580.3199999999999" y="730" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="ODCxSDIAOIF_QO2Thnrf-43" value="VispyPointsLayer" style="rounded=0;whiteSpace=wrap;html=1;verticalAlign=bottom;align=center;spacingLeft=0;spacingTop=0;dashed=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+        <mxCell id="ODCxSDIAOIF_QO2Thnrf-43" value="VispyPointsLayer" style="rounded=0;whiteSpace=wrap;html=1;verticalAlign=bottom;align=center;spacingLeft=0;spacingTop=0;dashed=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
           <mxGeometry x="570" y="790" width="170" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="ODCxSDIAOIF_QO2Thnrf-44" value="_set_slice" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="ODCxSDIAOIF_QO2Thnrf-44" value="_set_slice" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="580" y="800" width="150" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="ODCxSDIAOIF_QO2Thnrf-45" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+        <mxCell id="ODCxSDIAOIF_QO2Thnrf-45" value="" style="endArrow=classic;html=1;rounded=0;" parent="1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="580.3200000000002" y="839.9999999999998" as="sourcePoint" />
             <mxPoint x="540.3200000000002" y="839.9999999999991" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="ODCxSDIAOIF_QO2Thnrf-46" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+        <mxCell id="ODCxSDIAOIF_QO2Thnrf-46" value="" style="endArrow=classic;html=1;rounded=0;" parent="1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="540.3199999999997" y="800" as="sourcePoint" />
             <mxPoint x="580.3199999999997" y="800" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="ODCxSDIAOIF_QO2Thnrf-47" value="Main thread" style="rounded=0;whiteSpace=wrap;html=1;verticalAlign=top;align=center;spacingLeft=0;spacingTop=0;dashed=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+        <mxCell id="ODCxSDIAOIF_QO2Thnrf-47" value="Main thread" style="rounded=0;whiteSpace=wrap;html=1;verticalAlign=top;align=center;spacingLeft=0;spacingTop=0;dashed=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
           <mxGeometry x="95" y="175" width="170" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="ODCxSDIAOIF_QO2Thnrf-48" value="Slicing thread" style="rounded=0;whiteSpace=wrap;html=1;verticalAlign=top;align=center;spacingLeft=0;spacingTop=0;dashed=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+        <mxCell id="ODCxSDIAOIF_QO2Thnrf-48" value="Slicing thread" style="rounded=0;whiteSpace=wrap;html=1;verticalAlign=top;align=center;spacingLeft=0;spacingTop=0;dashed=1;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" vertex="1">
           <mxGeometry x="95" y="225" width="170" height="30" as="geometry" />
         </mxCell>
       </root>
