@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-07-15T18:48:22.723Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.0.0 Safari/537.36" etag="GcETIIte0phiHMThKasX" version="20.0.4" type="github">
+<mxfile host="app.diagrams.net" modified="2022-07-15T20:50:55.492Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.0.0 Safari/537.36" etag="1UpXQRWCC33PVixbiFah" version="20.0.4" type="github">
   <diagram id="Yj_vzEqTpsTSU6RkFpzm" name="Page-1">
     <mxGraphModel dx="2852" dy="1602" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -13,8 +13,8 @@
         <mxCell id="WacXzg7qdyJpNJZn4_8L-21" value="" style="rounded=0;whiteSpace=wrap;html=1;verticalAlign=top;align=center;spacingLeft=0;spacingTop=0;dashed=1;fillColor=#d5e8d4;strokeColor=#82b366;fontSize=16;borderRight=none;" vertex="1" parent="1">
           <mxGeometry x="1790" y="850" width="380" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="ODCxSDIAOIF_QO2Thnrf-40" value="VispyImageLayer" style="rounded=0;whiteSpace=wrap;html=1;verticalAlign=top;align=center;spacingLeft=0;spacingTop=-16;dashed=1;fillColor=#dae8fc;strokeColor=#6c8ebf;fontSize=16;horizontal=1;" parent="1" vertex="1">
-          <mxGeometry x="820" y="1000" width="170" height="60" as="geometry" />
+        <mxCell id="ODCxSDIAOIF_QO2Thnrf-40" value="VispyImageLayer" style="rounded=0;whiteSpace=wrap;html=1;verticalAlign=top;align=center;spacingLeft=0;spacingTop=0;dashed=1;fillColor=#dae8fc;strokeColor=#6c8ebf;fontSize=16;horizontal=1;" parent="1" vertex="1">
+          <mxGeometry x="820" y="980" width="170" height="80" as="geometry" />
         </mxCell>
         <mxCell id="ODCxSDIAOIF_QO2Thnrf-18" value="Points" style="rounded=0;whiteSpace=wrap;html=1;verticalAlign=top;align=center;spacingLeft=0;spacingTop=-16;dashed=1;fillColor=#d5e8d4;horizontal=1;strokeColor=#82b366;fontSize=16;" parent="1" vertex="1">
           <mxGeometry x="2190" y="710" width="180" height="150" as="geometry" />
@@ -25,14 +25,14 @@
         <mxCell id="ODCxSDIAOIF_QO2Thnrf-6" value="Points" style="rounded=0;whiteSpace=wrap;html=1;verticalAlign=top;align=center;spacingLeft=0;spacingTop=-16;dashed=1;fillColor=#dae8fc;horizontal=1;strokeColor=#6c8ebf;fontSize=16;" parent="1" vertex="1">
           <mxGeometry x="1790" y="270" width="180" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="ODCxSDIAOIF_QO2Thnrf-4" value="Image" style="rounded=0;whiteSpace=wrap;html=1;verticalAlign=top;align=center;spacingLeft=0;spacingTop=-16;dashed=1;fillColor=#dae8fc;horizontal=1;strokeColor=#6c8ebf;fontSize=16;" parent="1" vertex="1">
-          <mxGeometry x="1790" y="200" width="180" height="60" as="geometry" />
+        <mxCell id="ODCxSDIAOIF_QO2Thnrf-4" value="Image" style="rounded=0;whiteSpace=wrap;html=1;verticalAlign=top;align=center;spacingLeft=0;spacingTop=0;dashed=1;fillColor=#dae8fc;horizontal=1;strokeColor=#6c8ebf;fontSize=16;" parent="1" vertex="1">
+          <mxGeometry x="1790" y="180" width="180" height="80" as="geometry" />
         </mxCell>
         <mxCell id="ODCxSDIAOIF_QO2Thnrf-2" value="LayerSlicer" style="rounded=0;whiteSpace=wrap;html=1;verticalAlign=top;align=center;spacingLeft=0;spacingTop=0;dashed=1;fillColor=#dae8fc;strokeColor=#6c8ebf;fontSize=16;" parent="1" vertex="1">
-          <mxGeometry x="1590" y="160" width="180" height="250" as="geometry" />
+          <mxGeometry x="1590" y="170" width="180" height="240" as="geometry" />
         </mxCell>
         <mxCell id="6yyRVk2ILkX0JGuf4gln-4" value="ViewerModel" style="rounded=0;whiteSpace=wrap;html=1;verticalAlign=top;align=center;spacingLeft=0;spacingTop=0;dashed=1;fillColor=#dae8fc;strokeColor=#6c8ebf;fontSize=16;" parent="1" vertex="1">
-          <mxGeometry x="1390" y="150" width="180" height="270" as="geometry" />
+          <mxGeometry x="1390" y="160" width="180" height="260" as="geometry" />
         </mxCell>
         <mxCell id="6yyRVk2ILkX0JGuf4gln-6" value="_slice_layers_async" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;" parent="1" vertex="1">
           <mxGeometry x="1400" y="190" width="160" height="220" as="geometry" />
@@ -309,7 +309,7 @@
         <mxCell id="WacXzg7qdyJpNJZn4_8L-24" value="Image" style="rounded=0;whiteSpace=wrap;html=1;verticalAlign=top;align=center;spacingLeft=0;spacingTop=-16;dashed=1;fillColor=#dae8fc;strokeColor=#6c8ebf;fontSize=16;horizontal=1;" vertex="1" parent="1">
           <mxGeometry x="820" y="1070" width="170" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="WacXzg7qdyJpNJZn4_8L-25" value="_set_thumbnail" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;" vertex="1" parent="1">
+        <mxCell id="WacXzg7qdyJpNJZn4_8L-25" value="_set_slice" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;" vertex="1" parent="1">
           <mxGeometry x="830" y="1080" width="150" height="40" as="geometry" />
         </mxCell>
         <mxCell id="WacXzg7qdyJpNJZn4_8L-26" value="" style="endArrow=classic;html=1;rounded=0;fontSize=16;" edge="1" parent="1">
@@ -327,7 +327,7 @@
         <mxCell id="WacXzg7qdyJpNJZn4_8L-28" value="Points" style="rounded=0;whiteSpace=wrap;html=1;verticalAlign=top;align=center;spacingLeft=0;spacingTop=-16;dashed=1;fillColor=#dae8fc;strokeColor=#6c8ebf;fontSize=16;horizontal=1;" vertex="1" parent="1">
           <mxGeometry x="820" y="1210" width="170" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="WacXzg7qdyJpNJZn4_8L-29" value="_set_thumbnail" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;" vertex="1" parent="1">
+        <mxCell id="WacXzg7qdyJpNJZn4_8L-29" value="_set_slice" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;" vertex="1" parent="1">
           <mxGeometry x="830" y="1220" width="150" height="40" as="geometry" />
         </mxCell>
         <mxCell id="WacXzg7qdyJpNJZn4_8L-30" value="" style="endArrow=classic;html=1;rounded=0;fontSize=16;" edge="1" parent="1">
