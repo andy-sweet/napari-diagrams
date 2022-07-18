@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2022-07-18T22:25:26.770Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.0.0 Safari/537.36" etag="aa0W6R46uAx5mgs3G-10" version="20.0.4" type="github">
+<mxfile host="app.diagrams.net" modified="2022-07-18T22:42:43.400Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.0.0 Safari/537.36" etag="FlzYmrtN284Z2QKeV61D" version="20.0.4" type="github">
   <diagram id="Yj_vzEqTpsTSU6RkFpzm" name="Page-1">
-    <mxGraphModel dx="2593" dy="1456" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="731" dy="382" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -211,7 +211,7 @@
         <mxCell id="WacXzg7qdyJpNJZn4_8L-10" value="" style="endArrow=classic;html=1;rounded=0;fontSize=16;strokeWidth=2;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="40" y="80" as="sourcePoint" />
-            <mxPoint x="40" y="1160" as="targetPoint" />
+            <mxPoint x="40" y="1150" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="WacXzg7qdyJpNJZn4_8L-11" value="Time" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=24;horizontal=0;" vertex="1" connectable="0" parent="WacXzg7qdyJpNJZn4_8L-10">
@@ -220,7 +220,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="WacXzg7qdyJpNJZn4_8L-12" value="Qt event loop" style="rounded=0;whiteSpace=wrap;html=1;verticalAlign=middle;align=center;spacingLeft=0;spacingTop=0;dashed=1;fillColor=#dae8fc;strokeColor=#6c8ebf;fontSize=20;horizontal=1;" vertex="1" parent="1">
-          <mxGeometry x="80" y="80" width="170" height="1070" as="geometry" />
+          <mxGeometry x="80" y="80" width="170" height="1060" as="geometry" />
         </mxCell>
         <mxCell id="WacXzg7qdyJpNJZn4_8L-16" value="" style="endArrow=classic;html=1;rounded=0;fontSize=16;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
