@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-07-18T22:06:55.615Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.0.0 Safari/537.36" etag="Kw9sBfMta5hntxzCu_Ls" version="20.0.4" type="github">
+<mxfile host="app.diagrams.net" modified="2022-07-18T22:11:08.559Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.0.0 Safari/537.36" etag="e9Vhw-Lt2Q5bgaOwR5Oj" version="20.0.4" type="github">
   <diagram id="Yj_vzEqTpsTSU6RkFpzm" name="Page-1">
     <mxGraphModel dx="1678" dy="942" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -34,7 +34,7 @@
         <mxCell id="6yyRVk2ILkX0JGuf4gln-4" value="ViewerModel" style="rounded=0;whiteSpace=wrap;html=1;verticalAlign=top;align=center;spacingLeft=0;spacingTop=0;dashed=1;fillColor=#dae8fc;strokeColor=#6c8ebf;fontSize=16;" parent="1" vertex="1">
           <mxGeometry x="820.62" y="130" width="180" height="260" as="geometry" />
         </mxCell>
-        <mxCell id="6yyRVk2ILkX0JGuf4gln-6" value="_slice_layers_async" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;" parent="1" vertex="1">
+        <mxCell id="6yyRVk2ILkX0JGuf4gln-6" value="_slice_layers" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;" parent="1" vertex="1">
           <mxGeometry x="830.62" y="160" width="160" height="220" as="geometry" />
         </mxCell>
         <mxCell id="6yyRVk2ILkX0JGuf4gln-2" value="Dims" style="rounded=0;whiteSpace=wrap;html=1;verticalAlign=top;align=center;spacingLeft=0;spacingTop=0;dashed=1;fillColor=#dae8fc;strokeColor=#6c8ebf;fontSize=16;" parent="1" vertex="1">
@@ -76,7 +76,7 @@
         <mxCell id="6yyRVk2ILkX0JGuf4gln-102" value="&lt;h1&gt;napari: async slicing flow&amp;nbsp;&lt;/h1&gt;&lt;p&gt;&lt;font style=&quot;font-size: 16px;&quot;&gt;Instead of waiting for the slicing operation to completely finish before returning to the main Qt event loop, we can run the bulk of that operation asynchronously and respond when it&#39;s done. We need to respond on the main thread because Qt widgets can only be safely updated from the main thread. Updating the layers on the main thread also allows to safely update the thumbnail widgets, as well atomically update any slice state on the layer for backwards compatibility.&lt;/font&gt;&lt;/p&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;dashed=1;dashPattern=1 1;" parent="1" vertex="1">
           <mxGeometry x="10" y="10" width="340" height="260" as="geometry" />
         </mxCell>
-        <mxCell id="ODCxSDIAOIF_QO2Thnrf-1" value="slice_layers_async" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;" parent="1" vertex="1">
+        <mxCell id="ODCxSDIAOIF_QO2Thnrf-1" value="slice_layers" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;" parent="1" vertex="1">
           <mxGeometry x="1030.62" y="170" width="160" height="200" as="geometry" />
         </mxCell>
         <mxCell id="ODCxSDIAOIF_QO2Thnrf-5" value="_make_slice_request" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;" parent="1" vertex="1">
