@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-08-01T18:21:25.638Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.0.0 Safari/537.36" etag="KIK-FcddC15E8qlmopY5" version="20.1.4" type="github">
+<mxfile host="app.diagrams.net" modified="2022-08-01T18:21:41.752Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.0.0 Safari/537.36" etag="LgJFIjUaqyMXLqVGkvTe" version="20.1.4" type="github">
   <diagram id="Yj_vzEqTpsTSU6RkFpzm" name="Page-1">
     <mxGraphModel dx="1783" dy="1001" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -298,8 +298,8 @@
         </mxCell>
         <mxCell id="G7ooaP1NA_x7wRefDReL-1" value="" style="endArrow=none;dashed=1;html=1;dashPattern=1 3;strokeWidth=8;rounded=0;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="360" y="740" as="sourcePoint" />
-            <mxPoint x="360" y="550" as="targetPoint" />
+            <mxPoint x="360" y="790" as="sourcePoint" />
+            <mxPoint x="360" y="510" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="G7ooaP1NA_x7wRefDReL-2" value="&lt;font face=&quot;Courier New&quot; style=&quot;font-size: 14px;&quot;&gt;Qt main event loop free to handle other events&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
