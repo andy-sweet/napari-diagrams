@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2022-11-08T18:59:09.495Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36" etag="6iFj0rQqBW95qEl6LBnL" version="20.4.1" type="github">
+<mxfile host="app.diagrams.net" modified="2022-11-08T22:01:55.174Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36" etag="_9qB9ZQNhxrQHT_nq9PO" version="20.4.1" type="github">
   <diagram id="kK1oMe2VlQHmSl8PGtNt" name="Page-1">
-    <mxGraphModel dx="2066" dy="801" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="946" dy="621" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -45,7 +45,7 @@
         <mxCell id="hcDduwp4VHnjIowvwHhj-2" value="slice ready" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="600" y="300" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="hcDduwp4VHnjIowvwHhj-4" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;Dims: defines field of view&lt;br&gt;&lt;br&gt;Layers: model of napari layers&lt;br&gt;&lt;br&gt;Data: layer data that may live in RAM, VRAM, on disk, remotely&lt;br&gt;&lt;br&gt;Slicing: compose layers and dims to generate data in field of view&lt;br&gt;&lt;br&gt;Current slicing: one layer + one slice request -&amp;gt; one view update&lt;br&gt;&lt;br&gt;Progressive slicing: one layer + one slice request -&amp;gt; multiple chunked view updates&lt;br&gt;&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="hcDduwp4VHnjIowvwHhj-4" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;Dims: defines field of view&lt;br&gt;&lt;br&gt;Layers: model of napari layers&lt;br&gt;&lt;br&gt;Data: layer data that may live in RAM, VRAM, on disk, remotely&lt;br&gt;&lt;br&gt;Slicing: compose layers and dims to generate data in field of view&lt;br&gt;&lt;br&gt;Current slicing: one layer + one FOV -&amp;gt; one view update&lt;br&gt;&lt;br&gt;Progressive slicing: one layer + one FOV -&amp;gt; multiple chunked view updates&lt;br&gt;&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="80" y="400" width="690" height="290" as="geometry" />
         </mxCell>
       </root>
