@@ -1,1 +1,54 @@
-<mxfile host="app.diagrams.net" modified="2022-11-08T18:54:32.837Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36" etag="KhouVtz1h_7DLEPmcyz8" version="20.4.1" type="github"><diagram id="kK1oMe2VlQHmSl8PGtNt" name="Page-1">3VjbcpswEP0aHtsBZMB5jZ2203EnmTLT1o8KbEENIEaI2OTrK8xyM74kjms8fbL2SCtW5+yiNRqZxevPgqbhN+5DpJm6v9bIXDNNU7dt9VMiRYVMdaMCAsH8CuoALnsBBHVEc+ZD1lsoOY8kS/ugx5MEPNnDqBB81V/2m0f9p6Y0gAHgejQaoj+ZL0M8haW3+BdgQVg/2dBxJqb1YgSykPp81YHInUZmgnNZjeL1DKKSvJqXyu/TntkmMAGJfI1D5ljL3EuK7/TFze+fFl9jJ/+AuzzTKMcD+1RSDFgWNQsq9rQcekXEEh8E0cjtKmQS3JR65cRKqa+wUMaRsgw1fOS5WukvHhuAek+BKNH7XKptAPGs0tyw1BijASFhvfeYRkOeyjrgMUhRqCXoMEG6Md+MG7RXrXo2QmFHuCliFPMlaDZuKVUDZPUNDE8HZIqKGWXo6shcyJAHPKHRgvMUOfkDUhZYDDSXvE8trJn8Vbp/NC00l52p+Rq33hhFbSTqNJWXY9X2sjvZ+m2s2rGKH/xBnWwpos7Ic+HBAS5MLGAqApAH1pHdCguIqGTP/Th2CYauD5ypCJvMMOx+ahCypXkVF3ptyd6EcXom3AwyoSTVRTPhZUXcnjE5nJOS49pzY/LO3HhXMde30sU0/C8ltEaV0LiohEZHwFbOYxL2BGz1vB4J7TElNAdNyw8GKxAHblrjeMNyht7DJP0bpun9Os2HYe7oPux/1X04I76v9JPeV8aRZN9YDyCYIkhJfvYKIK+sgD2ZcJkKIIMKWNACRDZ6BThbLdZk7AKYDJias3h8nsg2UWRsoqwBUW7EvCt8qU6csamyd9w/WVpcSQla5uUuIWW2HzCq/0ntZyBy9xc=</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2022-11-08T18:59:09.495Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36" etag="6iFj0rQqBW95qEl6LBnL" version="20.4.1" type="github">
+  <diagram id="kK1oMe2VlQHmSl8PGtNt" name="Page-1">
+    <mxGraphModel dx="2066" dy="801" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="s75YucnyRazSuOkLJm7u-1" value="data" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;" parent="1" vertex="1">
+          <mxGeometry x="120" y="40" width="60" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="s75YucnyRazSuOkLJm7u-8" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.25;exitY=1;exitDx=0;exitDy=0;entryX=0.75;entryY=0;entryDx=0;entryDy=0;" parent="1" source="s75YucnyRazSuOkLJm7u-2" target="s75YucnyRazSuOkLJm7u-3" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="240" y="180" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="s75YucnyRazSuOkLJm7u-9" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.75;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="s75YucnyRazSuOkLJm7u-2" target="s75YucnyRazSuOkLJm7u-4" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="s75YucnyRazSuOkLJm7u-10" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="s75YucnyRazSuOkLJm7u-2" target="s75YucnyRazSuOkLJm7u-5" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="s75YucnyRazSuOkLJm7u-11" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="s75YucnyRazSuOkLJm7u-2" target="s75YucnyRazSuOkLJm7u-6" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="s75YucnyRazSuOkLJm7u-2" value="Viewer" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="310" y="70" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="s75YucnyRazSuOkLJm7u-7" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" source="s75YucnyRazSuOkLJm7u-3" target="s75YucnyRazSuOkLJm7u-1" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="s75YucnyRazSuOkLJm7u-3" value="Layers" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="150" y="190" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="s75YucnyRazSuOkLJm7u-4" value="Dims" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="450" y="180" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="hcDduwp4VHnjIowvwHhj-1" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;dashed=1;" edge="1" parent="1" source="s75YucnyRazSuOkLJm7u-5" target="s75YucnyRazSuOkLJm7u-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="s75YucnyRazSuOkLJm7u-5" value="Slicer" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="310" y="320" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="s75YucnyRazSuOkLJm7u-6" value="VispyLayers" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="600" y="70" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="hcDduwp4VHnjIowvwHhj-2" value="slice ready" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="600" y="300" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="hcDduwp4VHnjIowvwHhj-4" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;Dims: defines field of view&lt;br&gt;&lt;br&gt;Layers: model of napari layers&lt;br&gt;&lt;br&gt;Data: layer data that may live in RAM, VRAM, on disk, remotely&lt;br&gt;&lt;br&gt;Slicing: compose layers and dims to generate data in field of view&lt;br&gt;&lt;br&gt;Current slicing: one layer + one slice request -&amp;gt; one view update&lt;br&gt;&lt;br&gt;Progressive slicing: one layer + one slice request -&amp;gt; multiple chunked view updates&lt;br&gt;&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="80" y="400" width="690" height="290" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
