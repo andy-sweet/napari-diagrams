@@ -1,1 +1,106 @@
-<mxfile host="app.diagrams.net" modified="2023-03-16T14:04:53.534Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36" etag="45mJ54fKCypTcRj7KXR9" version="21.0.6" type="github"><diagram name="Page-1" id="Gt3HD48f80qGUT4Q7lOF">3VpNc5swEP01PnYGEMbOMXbT9NJppplOzwoIowlGjhD+yK+vBJIBCcfYQwDnYqNF2kX79q1WgglYrvePFG6iXyRA8cSxgv0EfJ84ju0Cl/8JyaGQzC1QCFYUB7JTKXjG70gKLSnNcIDSWkdGSMzwpi70SZIgn9VkkFKyq3cLSVy3uoErZAiefRib0n84YJGcxdQq5T8RXkXKsm3JO2uoOktBGsGA7Coi8DABS0oIK67W+yWKhfOUX4pxP07cPT4YRQlrM2Dj/35x4/e/T/d/3kBEyfb97fGb1LKFcSYnLB+WHZQHUBLcC0fylh/DNMX+BCwito65wOaXlGRJgIQRi7eK4SgwvFo+pn2cPI8aRNaI0QPvsivdq7wbVTyrZBTFkOFtXT2UKK+O6o4Wngjmhh1LRaQn9Ry0tlKRkoz6SI6quvOMIm+uKWKQrhAzFPGLyrRLUY7WBcgBAzmG18hAj6E9q+OVMkpe0ZLEhHJJQhLecxHiONZEMMarRIDOgUNcvtgiyjBnxr28scZBIMwsdhFm6HkDfWFzx/PAiagQCtD+0rhQA6y6v13VrsSN1xA3wDodIjVMLgXAvYg60qkneZPycGFa57Zc4jbzoP2I51azc/shHdC44upcaUs6XZHB3k8m3dTAPMfNAL6ObRM/KoHQATmARg57bpLDdj4AuHN2eIanNhQxmL6Ozlc8kwzsq3mnmaR91ijI8sGDzcaUNIwF9laSxsykAknZKLkw9Ybmwp3hrBAnOI1G5yrPGdpV9mXF+8AVyKxlzhlZpTK70aSj9s/V/cEYMw5oKOMbafSJPHKG4tH5st1t7d9++DGdawuGeyU/dEW988PcP4+jlJ86mmMGL+Vtc9fTEz/OLxbe9QuSPWh1q8e/Z90qkRp2emMpb3UugeG51O1er9O1xmtLuruRL0pXF22Dc8nc/YyTR22LNh2IznikjN3G3kfhep5a7ph4BLri0fEdWF88Ms/mx3L6qFNp+NNHp9tjhPa0Oc+GcVVo154/GstTz28KbfMAciRnajoZ3OHJYJ4FQOGjLAyxj1EOq0+SADNMEhHDRAhgliLRiMRvkKcZawn9vJn3QJw8VNhOJ+IbBHrsrICwNhHMdcA0JT6GjKMg3MDEPcE4QZdcb25WSiKKYKBsEN/PhOIXxA2Uj1MW40cbJBSGEsI7UE2xmGyAwxDRYq7KhBYoX+atsqcveU07BLchAm19v9ZdCJonEwKVmCQrkdSyJMH51el4+KpgOXd6GTo4VmahkaeLiIiTpBNgVZj3xQGb2v0Bxpvlt1TF0ll+kQYe/gM=</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2023-03-16T14:06:38.340Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36" etag="G3orktj6MFVIxv20YDcv" version="21.0.6" type="github">
+  <diagram name="Page-1" id="Gt3HD48f80qGUT4Q7lOF">
+    <mxGraphModel dx="1434" dy="803" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="pcOb4lzUPARq3hrovzqG-1" value="" style="endArrow=classic;html=1;rounded=0;" parent="1" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="160" y="160" as="sourcePoint" />
+            <mxPoint x="160" y="680" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="pcOb4lzUPARq3hrovzqG-3" value="time" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="100" y="400" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="pcOb4lzUPARq3hrovzqG-4" value="" style="endArrow=none;html=1;rounded=0;startArrow=none;" parent="1" source="pcOb4lzUPARq3hrovzqG-10" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="360" y="480" as="sourcePoint" />
+            <mxPoint x="360" y="160" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="pcOb4lzUPARq3hrovzqG-5" value="start" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="300" y="180" width="120" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="pcOb4lzUPARq3hrovzqG-6" value="pretask" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="300" y="240" width="120" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="pcOb4lzUPARq3hrovzqG-8" value="" style="endArrow=none;html=1;rounded=0;" parent="1" target="pcOb4lzUPARq3hrovzqG-7" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="360" y="680" as="sourcePoint" />
+            <mxPoint x="360" y="160" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="pcOb4lzUPARq3hrovzqG-7" value="posttask" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="300" y="560" width="120" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="pcOb4lzUPARq3hrovzqG-9" value="finish" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="300" y="620" width="120" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="pcOb4lzUPARq3hrovzqG-11" value="" style="endArrow=none;html=1;rounded=0;startArrow=none;" parent="1" source="pcOb4lzUPARq3hrovzqG-7" target="pcOb4lzUPARq3hrovzqG-10" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="360" y="470" as="sourcePoint" />
+            <mxPoint x="360" y="160" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="pcOb4lzUPARq3hrovzqG-10" value="task" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="300" y="300" width="120" height="250" as="geometry" />
+        </mxCell>
+        <mxCell id="pcOb4lzUPARq3hrovzqG-12" value="" style="endArrow=none;html=1;rounded=0;startArrow=none;" parent="1" source="pcOb4lzUPARq3hrovzqG-14" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="580" y="540" as="sourcePoint" />
+            <mxPoint x="580" y="160" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="pcOb4lzUPARq3hrovzqG-13" value="start" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="520" y="180" width="120" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="pcOb4lzUPARq3hrovzqG-15" value="" style="endArrow=none;html=1;rounded=0;startArrow=none;" parent="1" source="pcOb4lzUPARq3hrovzqG-17" target="pcOb4lzUPARq3hrovzqG-16" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="580" y="600" as="sourcePoint" />
+            <mxPoint x="580" y="160" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="pcOb4lzUPARq3hrovzqG-16" value="posttask" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="520" y="380" width="120" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="pcOb4lzUPARq3hrovzqG-18" value="" style="endArrow=none;html=1;rounded=0;startArrow=none;" parent="1" source="pcOb4lzUPARq3hrovzqG-16" target="pcOb4lzUPARq3hrovzqG-19" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="580" y="470" as="sourcePoint" />
+            <mxPoint x="580" y="160" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="pcOb4lzUPARq3hrovzqG-19" value="task" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="520" y="300" width="120" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="pcOb4lzUPARq3hrovzqG-20" value="" style="endArrow=none;html=1;rounded=0;startArrow=none;" parent="1" source="pcOb4lzUPARq3hrovzqG-19" target="pcOb4lzUPARq3hrovzqG-14" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="580" y="370" as="sourcePoint" />
+            <mxPoint x="580" y="220" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="pcOb4lzUPARq3hrovzqG-14" value="pretask" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="520" y="240" width="120" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="pcOb4lzUPARq3hrovzqG-21" value="" style="endArrow=none;html=1;rounded=0;" parent="1" target="pcOb4lzUPARq3hrovzqG-17" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="580" y="680" as="sourcePoint" />
+            <mxPoint x="580" y="480" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="pcOb4lzUPARq3hrovzqG-17" value="finish" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="520" y="440" width="120" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="pcOb4lzUPARq3hrovzqG-22" value="a sufficient condition to cause the dask Cache to error is for the finish phase associated with one task on one thread to occur before the posttask phase of another task on a different thread" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="680" y="380" width="140" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="pcOb4lzUPARq3hrovzqG-23" value="a long running simple task (one node) on one thread" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="290" y="30" width="140" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="pcOb4lzUPARq3hrovzqG-24" value="a short running simple task (one node) on another thread" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="510" y="30" width="140" height="100" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
